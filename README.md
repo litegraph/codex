@@ -12,10 +12,11 @@ description: >-
 ### Properties
 
 * [The Graph Website](https://thegraph.com/)
+* [Network Explorer](https://network.thegraph.com/network/)
+* [Subgraph Explorer](https://thegraph.com/explorer/)
 * [The Graph Foundation Website](https://thegraph.foundation)
 * [The Graph Jobs](https://thegraph.com/jobs/)
 * [Developer Documentation](https://thegraph.com/docs/)
-* [Subgraph Explorer](https://thegraph.com/explorer/)
 * [Apply for a Graph Grant ](https://airtable.com/shrdfvnFvVch3IOVm)
 * [Everest](https://everest.link)
 * [Delegate GRT on the Network](https://network.thegraph.com/network)
@@ -65,13 +66,12 @@ description: >-
 
 ### Community Tools and Dashboard
 
-* [Network Explorer](https://network.thegraph.com/)
-* [Subgraph Explorer](https://thegraph.com/explorer/)
-* [Graphscan by Ryabina](https://graphscan.io/)
-* [Graphlets by Staking Facilities](https://graphlets.io/)
+* [Graphscan](https://graphscan.io/) by Ryabina
+* [Graphlets](https://graphlets.io/) by Staking Facilities
 * [Graph Dashboard](https://thegraph.stake-machine.com/d/-3BUUtbMz/thegraph-overview?orgId=1&refresh=5m) by Stake-machine
-
-
+* [Graph Live](https://thegraph.live/) by zashtonEth
+* [Graph Indexers](https://oracleminer.com/graph/indexers/) by OracleMiner
+* [Dashboard](https://dappquery.com/dapp/graph-network-mainnet-10051) by Dappquery
 
 ## Basics
 
@@ -86,9 +86,9 @@ description: >-
 
 ### **Delegator Documentation**
 
-* \*\*\*\*[https://thegraph.com/docs/network\#delegating](https://thegraph.com/docs/network#delegating)
+* [Delegation Documentation](https://thegraph.com/docs/network#delegating)
 * [Official Network FAQ](https://docs.google.com/document/d/1h48y_hQWb3CXbwHytsP3Hli1fNMqaMsiaoJd1x31HCQ/edit?usp=sharing)
-* [https://thegraph.academy/delegators/delegator-resources/](https://thegraph.academy/delegators/delegator-resources/)
+* [Delegator Resources](https://thegraph.academy/delegators/delegator-resources/) by The Graph Academy
 
 #### Delegator Guides
 
@@ -135,7 +135,7 @@ description: >-
 * [Aragon](https://www.youtube.com/watch?v=JNqN3fek6FY)
 * [PoolTogether workshop @ETHDenver](https://www.youtube.com/watch?v=GqU_-ffyz0Q&t=21143s)
 
-#### Community Articles: 
+#### Community Articles:
 
 * [Subgraph Development, Part 1: Understanding and Aggregating Data](https://medium.com/protofire-blog/subgraph-development-part-1-understanding-and-aggregating-data-ef0c9a61063d)
 * [Subgraph Development, Part 2: Handling Arrays and Identifying Entities](https://medium.com/protofire-blog/subgraph-development-part-2-handling-arrays-and-identifying-entities-30d63d4b1dc6)
@@ -195,7 +195,7 @@ description: >-
 
 **Past Stories**
 
-1. \*\*\*\*[Querying the Blockchain: Why The Graph Might Become One of the Important Protocols of the Web3](https://hackernoon.com/querying-the-blockchain-why-the-graph-might-become-one-of-the-important-protocols-of-the-web3-eb77673bc967)
+1. [Querying the Blockchain: Why The Graph Might Become One of the Important Protocols of the Web3](https://hackernoon.com/querying-the-blockchain-why-the-graph-might-become-one-of-the-important-protocols-of-the-web3-eb77673bc967)
 2. [The Graph Shares Partnership with Chainlink for DeFi Queries](https://defirate.com/the-graph-chainlink-partnership/)
 3. [Multicoin Capital Leads $2.5 Million Seed Round for Blockchain Data Index](https://www.coindesk.com/multicoin-capital-leads-2-5-million-seed-round-for-blockchain-data-index)
 4. [Graph Protocol Raises $2.4M in Seed Funding](http://www.finsmes.com/2019/02/graph-protocol-raises-2-4m-in-seed-funding.html)
